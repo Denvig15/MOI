@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+	margin: 0;
+    background-color: rgb(250, 0, 0);
+}
+head{
+	width: 100%;
+	background: #c0f000;
+	height: 70px;
+}
